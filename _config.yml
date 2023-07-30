@@ -11,21 +11,21 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
+url: http://www.mariapmartinez.com
 baseurl: /
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
+title: María Paz Martinez
+author: María Paz Martinez
+description: Personal website for Maria Paz Martinez
 avatar: profile.png
-email: yourname@email.com
-github: jekyllt/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
-medium: username #e.g: NobelPeaceOslo
+email: contact@mariapmartinez.com
+github: mpmarti # username
+#twitter: mpzmarti
+linkedin: maría-paz-martínez-vásquez-66a6453b
+#stackoverflow: username   #e.g: users/2735833/proton1h1
+#medium: username #e.g: NobelPeaceOslo
 #Comment out if you don't want disqus
-disqus: username
-google_analytics: UA-69391421-1
+#disqus: username
+#google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
